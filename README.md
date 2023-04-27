@@ -1,5 +1,7 @@
 Hallo this is simple currency convertor 
 
+Data was got from https://cbu.uz/
+
 In V.1 -> 
 
 UZS to { Any Curreny }
