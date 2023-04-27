@@ -1,6 +1,6 @@
 Hallo this is simple currency convertor 
 
-IN V.1 -> 
+In V.1 -> 
 
 UZS to { Any Curreny }
 
